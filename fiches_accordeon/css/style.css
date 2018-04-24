@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+dl { width: 400px; margin: 50px auto; }
+
+dt {
+    background: #0089ff;
+    width: 100%;
+    color: white;
+    height: 40px;
+    line-height: 40px;
+}
+
+dd {
+    background: #CADFE3;
+    width: 100%;
+    transition: height 0.4s ease-in;
+    overflow: hidden;
+}
+
+dd img { width: 100%;display:table; }
+
+dd p {
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    background: #9a9999;
+    color: white;
+}
+
+dd.open { height: 340px; }
+dd:not(.open) { height: 0; }
