@@ -1,0 +1,13 @@
+.container {
+    width: 400px;
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.fa {
+    margin: 10px;
+    font-size: 100px;
+}
