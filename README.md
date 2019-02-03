@@ -18,6 +18,9 @@ Analyse et programmation de 2 petits jeux.
 Exemples :    
 - Démineur très simplifié.
 - Cliquer dans un temps limité le plus de fois possible sur élément en mouvement.
+### Application plus classique.
+Analyse et programmation d'un slideshowde photos
+- changements automatisés, avec boutons et puces.
 
 
 
