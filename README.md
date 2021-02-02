@@ -1,7 +1,7 @@
 ## javascript niveau 1 moins de 24 heures.
 ### Concentrer l'initiation sur les points suivants
-- L'API du DOM
-- L'PAI Selector
+- L'API DOM
+- L'API Selector
 - Variable et constante
 - Expressions et opérateurs
     - arithmétiques
